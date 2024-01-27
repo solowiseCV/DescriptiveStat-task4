@@ -5,7 +5,7 @@ This project is build with class ,objects,methods in javascript,its developed to
 
 ## Replit links for the project 
 
-  - [Click here to run and view on replit please](https://replit.com/@uchesolomon61/learnable-task-on-descriptive-statistics-task4#index.js)
+  - [Click here to run and view descriptive statistics project on replit please](https://replit.com/@uchesolomon61/learnable-task-on-descriptive-statistics-task4#index.js)
 
   - [Click here to run and view class object(car) project on replit please]( https://replit.com/@uchesolomon61/Car-class-task4#index.js)
 
